@@ -21,7 +21,7 @@ Projects
 
 Tools & Technologies
 
-Power BI | DAX | Power Query | MS Excel | Pivot Tables | Data Visualization
+Power BI | DAX | Power Query | Data Visualization
 
 Repository Contents
 
