@@ -1,6 +1,6 @@
 POWER BI ANALYTICS DASHBOARDS
 
-A collection of data analytics and visualization projects created using Power BI and MS Excel, focusing on business, healthcare, and HR insights.
+A collection of data analytics and visualization projects created using Power BI focusing on business, healthcare, and HR insights.
 
 Projects
 
