@@ -1,28 +1,28 @@
-POWER BI ANALYTICS DASHBOARDS
 
-A collection of data analytics and visualization projects created using Power BI focusing on business, healthcare, and HR insights.
+# Power BI Analytics Dashboards
 
-Projects
+## Overview
 
-1. HR Workforce Intelligence – Power BI
+A collection of interactive Power BI dashboards developed to analyze healthcare operations, HR workforce data, and sales performance.
 
-- Analyzed employee data, departments, workforce distribution, and HR metrics.
-- Used DAX and interactive visualizations to generate insights.
+## Dashboards
 
-2. Healthcare Patient Dashboard – Power BI
+### 1. Healthcare Operations Dashboard
+Analyzes healthcare-related operational and patient metrics to identify important performance trends and insights.
 
-- Analyzed patient data, departments, inpatient/outpatient trends, and healthcare costs.
-- Created KPI cards and interactive visualizations for healthcare analysis.
+### 2. HR Workforce Dashboard
+Analyzes workforce data to understand employee and department-level trends.
 
-3. Sales Analytics Dashboard – Power BI
+### 3. Sales Analytics Dashboard
+Analyzes sales performance, revenue patterns, and key business metrics.
 
-- Analyzed revenue, orders, quantity, average order value, categories, and regional sales.
-- Used Power Query, Slicers, Charts for interactive analysis.
+## Tools & Technologies
 
-Tools & Technologies
-
-Power BI | DAX | Power Query | Data Visualization
-
-Repository Contents
-
-This repository contains the dashboards, project files, and supporting documentation for all three projects.
+- Power BI
+- Power Query
+- DAX
+- Data Modeling
+- Data Cleaning & Transformation
+- KPI Cards
+- Slicers & Filters
+- Data Visualization
